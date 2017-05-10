@@ -1,0 +1,72 @@
+body {
+  background-color: gray;
+}
+
+a {
+  background-color: #DCDCDC;
+  color: gray;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.rodape {
+  background-color: #DCDCDC;
+  margin: 10px;
+  border-radius: 20px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.quadro {
+  background-color: #DCDCDC;
+  margin: 10px;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+.licoes {
+  color: #696969;
+  margin: 20px;
+  font-weight: lighter;
+  padding-top: 5px;
+}
+
+.divisoria {
+  background-color: gray;
+}
+
+.titulo {
+  background-color: #DCDCDC;
+  color: #696969;
+  border-radius: 20px;
+  margin: 10px;
+}
+
+.imagem {
+  display: flex;
+  width: 50%;
+  height: 50%;
+}
+
+.borda_texto {
+  margin-right: 5px;
+}
+
+.borda_imagem {
+  margin-left: 5px;
+}
+
+.borda_imagem_css {
+  border: 0;
+  width: 88px;
+  height: 31px;
+}
+
+* {
+  box-sizing: border-box;
+}
